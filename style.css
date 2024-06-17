@@ -311,6 +311,7 @@ section .main .button:hover i{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-left: 15px;
+
 }
 
 .about .about_main{
